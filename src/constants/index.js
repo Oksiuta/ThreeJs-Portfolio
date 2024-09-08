@@ -43,15 +43,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "3D Web Developer",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "Full Stack Developer",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Blockchain Developer",
     icon: backend,
   },
 ];
@@ -114,7 +114,7 @@ const technologies = [
 const experiences = [
   {
     title: "IT Support Specialist",
-    company_name: "Penn State Berks",
+    company_name: "Elogic Commerce",
     icon: starbucks,
     iconBg: "#383E56",
     date: "Nov 2021 - Dec 2022",
@@ -126,7 +126,7 @@ const experiences = [
     ],
   },
   {
-    title: "Intercultural Mentor",
+    title: "DataArt l Mentor",
     company_name: "Penn State Berks",
     icon: starbucks,
     iconBg: "#E6DEDD",
@@ -140,7 +140,7 @@ const experiences = [
   },
   {
     title: "Full stack Developer",
-    company_name: "IIT Bombay",
+    company_name: "Ciklum",
     icon: meta,
     iconBg: "#E6DEDD",
     date: "May 2023 - Present",
@@ -155,24 +155,21 @@ const experiences = [
 
 const testimonials = [
   {
-    testimonial:
-      "Dummy Testomonial",
+    testimonial: "Dummy Testomonial",
     name: "Jane Doe",
     designation: "CFO",
     company: "XYZ Co",
     image: "https://randomuser.me/api/portraits/women/4.jpg",
   },
   {
-    testimonial:
-      "Dummy Testomonial",
+    testimonial: "Dummy Testomonial",
     name: "John Doe",
     designation: "COO",
     company: "ABC Corp",
     image: "https://randomuser.me/api/portraits/men/5.jpg",
   },
   {
-    testimonial:
-      "Dummy Testomonial",
+    testimonial: "Dummy Testomonial",
     name: "Human Being",
     designation: "CTO",
     company: "Vought Enterprises",
@@ -200,7 +197,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/UDogg/CMPSC311",
+    source_code_link: "https://github.com/Oksiuta/CMPSC311",
   },
   {
     name: "Whack-A-Mole",
@@ -221,7 +218,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/UDogg/Whack-A-Mole",
+    source_code_link: "https://github.com/Oksiuta/Whack-A-Mole",
   },
   {
     name: "Django CRM",
@@ -242,12 +239,11 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/UDogg/djanproj",
+    source_code_link: "https://github.com/Oksiuta/djanproj",
   },
   {
     name: "Kubernetes Deployment",
-    description:
-      "This 3D website was deployed using Kubernetes",
+    description: "This 3D website was deployed using Kubernetes",
     tags: [
       {
         name: "Python",
@@ -267,8 +263,7 @@ const projects = [
   },
   {
     name: "Learning Prisma",
-    description:
-      "This is made using TypeScript and Prisma",
+    description: "This is made using TypeScript and Prisma",
     tags: [
       {
         name: "TypeScript",
